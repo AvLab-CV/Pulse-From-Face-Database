@@ -25,7 +25,7 @@ Here are some examples from the dataset.
 
 
 
-Update (example)
+Update
 --
 |Date|Updata|
 |----|------|
