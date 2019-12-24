@@ -17,7 +17,7 @@ The subjects were sitting in front of the camera with an average distance of 0.5
 
 
 
-We hope that the Pulse from face (PFF) database could revolutionized the landscape of heart rate research. A detailed introduction of PFF can be found in the [paper]().
+We hope that the Pulse from face (PFF) database could revolutionized the landscape of heart rate detection research. A detailed introduction of PFF can be found in the [paper]().
 
 
 
@@ -29,7 +29,7 @@ Update
 --
 |Date|Updata|
 |----|------|
-|2019-12-24|PFF dataset is composed and madeavailable to the research community.|
+|2019-12-24|PFF dataset is composed and made available to the research community.|
 
 
 
