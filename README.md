@@ -1,9 +1,8 @@
-# Pulse-From-Face-Database ([Website](http://140.118.199.217:50/))
+# A Deep Learning Framework for Heart Rate Estimation from Facial Videos ([Website](http://140.118.199.217:50/))
 
+By Gee-Sern Jison Hsu, Rui-Cang Xie, ArulMurugan Ambikapathi, Kae-Jy Chou
 
-By Gee-Sern Hsu
-
-PFF database that we have made for heart rate detection study. This database has 13 subjects, each subject has 5 scenarios, in total has 85 videos. Each video clip was recorded for 3 minutes with frame rate 50 Hz and resolution 1280x720 pixels. Two Mio Alpha II wrist heart rate monitors, rectified by medical clinicians, were used to record the subjects heart rates, and the average BPM of the two readings was considered as ground truth. We provide txt file with heartrate (BPM) for each video.
+Pulse From Face (PFF) database contains 13 subjects, each subject has 5 scenarios, in total has 85 videos. Each video clip was recorded for 3 minutes with frame rate 50 Hz and resolution 1280x720 pixels. Two Mio Alpha II wrist heart rate monitors, rectified by medical clinicians, were used to record the subjects heart rates, and the average BPM of the two readings was considered as ground truth. We provide txt file with heartrate (BPM) for each video.
 
 The subjects were sitting in front of the camera with an average distance of 0.5 meters. Videos were taken under various illumination conditions that were made by randomly turning on and off the indoor fluorescent lights and partial coverage of ambient lights. The PFF also includes different body movements. The videos were collected from 13 healthy subjects. Each subject was asked to face the camera and the videos were collected for the following five scenarios:
 
@@ -13,13 +12,7 @@ The subjects were sitting in front of the camera with an average distance of 0.5
 - **Dark Moving (DM)** Under the same illumination condition as of the above 3, each subject moved in the same way as of the above 2.
 - **Normal Light Static Exercise (NSE)** Under the same illumination condition as of the above 1, each subject was riding on an exercise bike with a constant speed.
 
-
-
-
-
 We hope that the Pulse from face (PFF) database could revolutionized the landscape of heart rate detection research. A detailed introduction of PFF can be found in the [paper]().
-
-
 
 Here are some examples from the dataset.
 
@@ -31,8 +24,6 @@ Update
 |Date|Updata|
 |----|------|
 |2019-12-24|PFF dataset is composed and made available to the research community.|
-
-
 
 
 Data Download 
