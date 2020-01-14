@@ -12,7 +12,7 @@ The subjects were sitting in front of the camera with an average distance of 0.5
 - **Dark Moving (DM)** Under the same illumination condition as of the above 3, each subject moved in the same way as of the above 2.
 - **Normal Light Static Exercise (NSE)** Under the same illumination condition as of the above 1, each subject was riding on an exercise bike with a constant speed.
 
-We hope that the Pulse from face (PFF) database could revolutionized the landscape of heart rate detection research. A detailed introduction of PFF can be found in the [paper]().
+We hope that the Pulse from face (PFF) database could revolutionized the landscape of heart rate detection research. A detailed introduction of PFF can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/8272721).
 
 Here are some examples from the dataset.
 
