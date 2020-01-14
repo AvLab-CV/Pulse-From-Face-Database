@@ -76,6 +76,13 @@ Citation and Contact
 --
 If you like our work or find PFF dataset useful, please cite the following paper：
 
+@inproceedings{hsu2017deep,
+  title={Deep learning with time-frequency representation for pulse estimation from facial videos},
+  author={Hsu, Gee-Sern and Ambikapathi, ArulMurugan and Chen, Ming-Shiang},
+  booktitle={2017 IJCB},
+  year={2017},
+}
+
 Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
 
 
