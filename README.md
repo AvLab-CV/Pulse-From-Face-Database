@@ -66,9 +66,6 @@ To guarantee the proper use of this database, the following restrictions must be
  
 No country or institution is excluded of any of the above restrictions. Failure to follow the restrictions will be legally prosecuted.
 
-Download Link
--
-[PFF Download Link](https://drive.google.com/file/d/15pBg6NUWnATxv47Rb6lyswyBk2kRiHdO/view)
 
 
 Citation and Contact
