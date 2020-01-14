@@ -6,7 +6,7 @@ Pulse From Face (PFF) database contains 13 subjects, each subject has 5 scenario
 
 The subjects were sitting in front of the camera with an average distance of 0.5 meters. Videos were taken under various illumination conditions that were made by randomly turning on and off the indoor fluorescent lights and partial coverage of ambient lights. The PFF also includes different body movements. The videos were collected from 13 healthy subjects. Each subject was asked to face the camera and the videos were collected for the following five scenarios:
 
-- **ormal Light Static (NS)** All fluorescent lights were on. Each subject sit still without body movements.
+- **Normal Light Static (NS)** All fluorescent lights were on. Each subject sit still without body movements.
 - **Normal Light Moving (NM)** Under the same illumination condition as of the above 1, each subject was directed to move his/her body to the right and left parallel to the camera repeatedly, with frequency kept between 0.2~0.5 Hz.
 - **Dark Static (DS)** All fluorescent lights were off with ambient lights primarily from windows and computer monitors. Each subject remained still.
 - **Dark Moving (DM)** Under the same illumination condition as of the above 3, each subject moved in the same way as of the above 2.
